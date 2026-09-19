@@ -1,6 +1,6 @@
 # Third-party notices
 
-The rendered HTML preview includes styles and fonts from KaTeX and styles from Jupyter nbconvert. Their license notices follow.
+The rendered HTML previews include styles and fonts from KaTeX and styles from Jupyter nbconvert. Their license notices follow.
 
 ## KaTeX
 
