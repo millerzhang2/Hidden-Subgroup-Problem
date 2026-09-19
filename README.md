@@ -18,6 +18,8 @@ The [Generalized Simon's algorithm notebook](Finite%20Abelian%20Hidden%20Subgrou
 
 The [Finite Cyclic Period Finding notebook](Finite%20Abelian%20Hidden%20Subgroups%20Problems/Finite%20Cyclic%20Period%20Finding/Finite_Cyclic_Period_Finding.ipynb) uses the Fourier transform on a known cyclic group and recovers its hidden period with gcd computations. It includes a non-power-of-two example.
 
+The [Shor's Discrete Logarithm Algorithm notebook](Finite%20Abelian%20Hidden%20Subgroups%20Problems/Shor%27s%20Discrete%20Logarithm%20Algorithm/Shors_Discrete_Logarithm_Algorithm.ipynb) constructs a modular-multiplication oracle from public parameters and combines paired Fourier samples to recover and verify the logarithm, including for composite group orders.
+
 ## Run locally
 
 Use Python 3.12 or newer. From the repository root:
