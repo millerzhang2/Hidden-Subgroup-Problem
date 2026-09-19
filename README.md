@@ -10,9 +10,9 @@ Explanations and executable Jupyter notebooks for hidden subgroup problems, with
 
 ## Simon's algorithm
 
-Start with [Simon's algorithm notebook](Finite%20Abelian%20Hidden%20Subgroups%20Problems/Simons_Algorithm.ipynb). It explains the problem, derives the quantum sampling procedure, implements the circuit in Qiskit, and recovers the hidden string using binary Gaussian elimination.
+Start with [Simon's algorithm notebook](Finite%20Abelian%20Hidden%20Subgroups%20Problems/Simon%27s%20Algorithm/Simons_Algorithm.ipynb). It explains the problem, derives the quantum sampling procedure, implements the circuit in Qiskit, and recovers the hidden string using binary Gaussian elimination.
 
-Saved outputs include the circuit, measurement results, and recovered string. For an offline reading copy with rendered equations, download [the HTML preview](Finite%20Abelian%20Hidden%20Subgroups%20Problems/Simons_Algorithm.html) and open it in a browser.
+Saved outputs include the circuit, measurement results, and recovered string. For an offline reading copy with rendered equations, download [the HTML preview](Finite%20Abelian%20Hidden%20Subgroups%20Problems/Simon%27s%20Algorithm/Simons_Algorithm.html) and open it in a browser.
 
 ## Run locally
 
@@ -37,7 +37,7 @@ source .venv/bin/activate
 Install the dependencies and start JupyterLab:
 
 ```sh
-python -m pip install -r "Finite Abelian Hidden Subgroups Problems/requirements.txt"
+python -m pip install -r "Finite Abelian Hidden Subgroups Problems/Simon's Algorithm/requirements.txt"
 python -m jupyterlab
 ```
 
