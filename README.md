@@ -24,6 +24,8 @@ The [Shor's Order-Finding and Factoring Algorithm notebook](Beyond%20Finite%20Ab
 
 The [Hallgren's Algorithm for Pell's Equation notebook](Beyond%20Finite%20Abelian%20Hidden%20Subgroups/Hallgren%27s%20Algorithm%20for%20Pell%27s%20Equation/Hallgrens_Algorithm_for_Pells_Equation.ipynb) extends Fourier sampling to real periods using reduced ideals. It includes small Qiskit examples and classical unit recovery, with an explicit distinction between the demonstrations and Hallgren's polynomial-time arithmetic.
 
+The [Kuperberg's Algorithm for the Dihedral HSP notebook](Beyond%20Finite%20Abelian%20Hidden%20Subgroups/Kuperberg%27s%20Algorithm%20for%20the%20Dihedral%20HSP/Kuperbergs_Algorithm_for_the_Dihedral_HSP.ipynb) introduces a nonabelian hidden subgroup problem through retained phase qubits, quantum state combination, and a classical sieve controller that recovers the full reflection parameter.
+
 ## Run locally
 
 Use Python 3.12 or newer. From the repository root:

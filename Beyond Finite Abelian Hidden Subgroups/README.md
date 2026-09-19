@@ -8,4 +8,6 @@ Algorithms involving infinite abelian groups, nonabelian groups, and related ext
 
 - [Hallgren's Algorithm for Pell's Equation](Hallgren%27s%20Algorithm%20for%20Pell%27s%20Equation/README.md) explains real-period finding through ideal reductions, with small Qiskit examples, regulator-candidate recovery, and exact Pell verification.
 
+- [Kuperberg's Algorithm for the Dihedral HSP](Kuperberg%27s%20Algorithm%20for%20the%20Dihedral%20HSP/README.md) combines quantum phase qubits in a sieve and uses subgroup restrictions to recover a hidden reflection in the power-of-two case.
+
 Return to the [repository overview](../README.md).
