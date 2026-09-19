@@ -20,6 +20,8 @@ The [Finite Cyclic Period Finding notebook](Finite%20Abelian%20Hidden%20Subgroup
 
 The [Shor's Discrete Logarithm Algorithm notebook](Finite%20Abelian%20Hidden%20Subgroups%20Problems/Shor%27s%20Discrete%20Logarithm%20Algorithm/Shors_Discrete_Logarithm_Algorithm.ipynb) constructs a modular-multiplication oracle from public parameters and combines paired Fourier samples to recover and verify the logarithm, including for composite group orders.
 
+The [Shor's Order-Finding and Factoring Algorithm notebook](Beyond%20Finite%20Abelian%20Hidden%20Subgroups/Shor%27s%20Order-Finding%20and%20Factoring%20Algorithm/Shors_Order_Finding_and_Factoring_Algorithm.ipynb) introduces the infinite abelian setting through quantum phase estimation, continued-fraction order recovery, and verified factor extraction. It includes a nonexact-phase example and an explicit order-recovery success bound.
+
 ## Run locally
 
 Use Python 3.12 or newer. From the repository root:
