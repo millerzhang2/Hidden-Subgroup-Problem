@@ -22,6 +22,8 @@ The [Shor's Discrete Logarithm Algorithm notebook](Finite%20Abelian%20Hidden%20S
 
 The [Shor's Order-Finding and Factoring Algorithm notebook](Beyond%20Finite%20Abelian%20Hidden%20Subgroups/Shor%27s%20Order-Finding%20and%20Factoring%20Algorithm/Shors_Order_Finding_and_Factoring_Algorithm.ipynb) introduces the infinite abelian setting through quantum phase estimation, continued-fraction order recovery, and verified factor extraction. It includes a nonexact-phase example and an explicit order-recovery success bound.
 
+The [Hallgren's Algorithm for Pell's Equation notebook](Beyond%20Finite%20Abelian%20Hidden%20Subgroups/Hallgren%27s%20Algorithm%20for%20Pell%27s%20Equation/Hallgrens_Algorithm_for_Pells_Equation.ipynb) extends Fourier sampling to real periods using reduced ideals. It includes small Qiskit examples and classical unit recovery, with an explicit distinction between the demonstrations and Hallgren's polynomial-time arithmetic.
+
 ## Run locally
 
 Use Python 3.12 or newer. From the repository root:
