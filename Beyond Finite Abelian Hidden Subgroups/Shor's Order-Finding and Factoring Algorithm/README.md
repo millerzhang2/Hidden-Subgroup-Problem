@@ -13,6 +13,4 @@ python -m jupyterlab
 
 Run the cells from top to bottom. The local ideal simulation uses dense modular-multiplier gates and supports at most 6 work qubits, or 18 total qubits. The notebook explains how these small demonstrations differ in cost from scalable reversible arithmetic.
 
-For offline reading, download [the rendered HTML preview](Shors_Order_Finding_and_Factoring_Algorithm.html) and open it in a browser. Its equations, fonts, and figures are embedded.
-
 Return to [Beyond Finite Abelian Hidden Subgroups](../README.md).

@@ -13,6 +13,4 @@ python -m jupyterlab
 
 Select the environment containing these dependencies and run the notebook from top to bottom. The circuits use a local ideal simulator.
 
-For reading offline, download [the rendered HTML preview](Shors_Discrete_Logarithm_Algorithm.html) and open it in a browser. Its equations, fonts, and figures are embedded.
-
 Return to [Finite Abelian Hidden Subgroups Problems](../README.md).

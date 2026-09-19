@@ -13,6 +13,4 @@ python -m jupyterlab
 
 Select the kernel containing these dependencies and run the cells from top to bottom. The notebook runs on a local ideal simulator.
 
-For reading offline, download [the rendered HTML preview](Finite_Cyclic_Period_Finding.html) and open it in a browser. Equations, fonts, and figures are embedded.
-
 Return to [Finite Abelian Hidden Subgroups Problems](../README.md).

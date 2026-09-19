@@ -15,6 +15,4 @@ python -m jupyterlab
 
 Run the cells from top to bottom. The examples use a local ideal simulator.
 
-For offline reading, download [the rendered HTML preview](Hallgrens_Algorithm_for_Pells_Equation.html) and open it in a browser. Equations, fonts, and figures are embedded.
-
 Return to [Beyond Finite Abelian Hidden Subgroups](../README.md).

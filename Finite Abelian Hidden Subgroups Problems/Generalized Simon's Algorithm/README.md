@@ -13,6 +13,4 @@ python -m jupyterlab
 
 Choose a kernel in the environment containing these dependencies, then run the notebook from top to bottom. All circuits run on a local ideal simulator.
 
-For reading offline, download [the rendered HTML preview](Generalized_Simons_Algorithm.html) and open it in a browser. Its equations, fonts, and figures are embedded.
-
 Return to [Finite Abelian Hidden Subgroups Problems](../README.md).

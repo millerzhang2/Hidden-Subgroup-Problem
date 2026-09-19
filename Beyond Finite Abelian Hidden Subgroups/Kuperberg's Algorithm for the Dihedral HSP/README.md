@@ -15,6 +15,4 @@ python -m jupyterlab
 
 Run the cells from top to bottom. No IBM Quantum account is required.
 
-For offline reading, download [the rendered HTML preview](Kuperbergs_Algorithm_for_the_Dihedral_HSP.html) and open it in a browser. Equations, fonts, and figures are embedded.
-
 Return to [Beyond Finite Abelian Hidden Subgroups](../README.md).
