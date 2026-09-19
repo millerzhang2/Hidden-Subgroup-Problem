@@ -16,6 +16,8 @@ Saved outputs include the circuit, measurement results, and recovered string. Fo
 
 The [Generalized Simon's algorithm notebook](Finite%20Abelian%20Hidden%20Subgroups%20Problems/Generalized%20Simon%27s%20Algorithm/Generalized_Simons_Algorithm.ipynb) extends this to a hidden binary subspace. It includes quantum sampling, classical basis recovery, and verification when the hidden dimension is unknown.
 
+The [Finite Cyclic Period Finding notebook](Finite%20Abelian%20Hidden%20Subgroups%20Problems/Finite%20Cyclic%20Period%20Finding/Finite_Cyclic_Period_Finding.ipynb) uses the Fourier transform on a known cyclic group and recovers its hidden period with gcd computations. It includes a non-power-of-two example.
+
 ## Run locally
 
 Use Python 3.12 or newer. From the repository root:
@@ -43,4 +45,4 @@ python -m pip install -r "Finite Abelian Hidden Subgroups Problems/Simon's Algor
 python -m jupyterlab
 ```
 
-Both notebooks use the same dependencies. Open either algorithm notebook and run its cells from top to bottom. The code runs on a local ideal simulator and does not require an IBM Quantum account.
+All notebooks use the same dependencies. Open an algorithm notebook and run its cells from top to bottom. The code runs on a local ideal simulator and does not require an IBM Quantum account.
